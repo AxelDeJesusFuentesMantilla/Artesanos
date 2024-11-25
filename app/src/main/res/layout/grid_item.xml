@@ -25,6 +25,7 @@
         android:text="Nombre"
         android:textSize="14sp"
         android:textStyle="bold"
+        android:textColor="@color/black"
         android:gravity="center" />
 
     <!-- Región -->

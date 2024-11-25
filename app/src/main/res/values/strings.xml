@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CooperativasArtesanos</string>
+    <string name="search_icon">Buscar</string>
+    <string name="artisan_image">Imagen del artesano</string>
+</resources>
